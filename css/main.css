@@ -17,7 +17,7 @@ body {
     position: fixed;
     border: solid;
     width: 2000px;
-    height: 75px;
+    height: 100px;
     background-color: blue;
     bottom: 880px;
 }
